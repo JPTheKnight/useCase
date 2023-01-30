@@ -1,0 +1,11 @@
+[
+  { "position": 1, "name": "Product", "info": "IdealApp - Brain" },
+  { "position": 2, "name": "Company", "info": "BMW - IdealWorks" },
+  { "position": 3, "name": "Tag", "info": "V2.1.0-21-GF06C6E1" },
+  {
+    "position": 4,
+    "name": "SHA",
+    "info": "F06C6E175E7B85F02CC0E2466A4C24D6A2B03596"
+  },
+  { "position": 5, "name": "Status", "info": "Clean" }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "id": 0,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-09-19 02:19:18",
+    "message": "",
+    "bms_max_i": "6.60",
+    "left_max_i": "-30.60",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 1,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-09-21 02:57:29",
+    "message": "",
+    "bms_max_i": "6.60",
+    "left_max_i": "-30.60",
+    "right_max_i": "30.08"
+  },
+  {
+    "id": 2,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-09-29 09:52:20",
+    "message": "",
+    "bms_max_i": "6.40",
+    "left_max_i": "61.78",
+    "right_max_i": "30.47"
+  },
+  {
+    "id": 3,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-09-29 09:55:35",
+    "message": "",
+    "bms_max_i": "6.50",
+    "left_max_i": "-30.47",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 4,
+    "cycle": 1,
+    "result": false,
+    "test_at": "2022-09-29 10:00:21",
+    "message": "Brake test Failed:  No high current detected",
+    "bms_max_i": "2.80",
+    "left_max_i": "-0.26",
+    "right_max_i": "-0.13"
+  },
+  {
+    "id": 5,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-09-29 10:03:59",
+    "message": "",
+    "bms_max_i": "6.40",
+    "left_max_i": "-30.47",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 6,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-09-29 10:04:33",
+    "message": "",
+    "bms_max_i": "6.50",
+    "left_max_i": "-30.47",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 7,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-09-29 10:05:07",
+    "message": "",
+    "bms_max_i": "6.50",
+    "left_max_i": "16776.70",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 8,
+    "cycle": 1,
+    "result": false,
+    "test_at": "2022-10-03 03:26:21",
+    "message": "Brake test Failed:  No high current detected",
+    "bms_max_i": "0.00",
+    "left_max_i": "0.13",
+    "right_max_i": "0.13"
+  },
+  {
+    "id": 9,
+    "cycle": 1,
+    "result": false,
+    "test_at": "2022-10-03 03:46:15",
+    "message": "Brake test Failed:  No high current detected",
+    "bms_max_i": "6.60",
+    "left_max_i": "-29.95",
+    "right_max_i": "30.08"
+  },
+  {
+    "id": 10,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-10-03 03:46:34",
+    "message": "",
+    "bms_max_i": "6.70",
+    "left_max_i": "-30.60",
+    "right_max_i": "30.34"
+  },
+  {
+    "id": 11,
+    "cycle": 1,
+    "result": false,
+    "test_at": "2022-10-07 05:39:19",
+    "message": "Brake test Failed:  No high current detected",
+    "bms_max_i": "6.50",
+    "left_max_i": "-30.47",
+    "right_max_i": "30.08"
+  },
+  {
+    "id": 12,
+    "cycle": 1,
+    "result": false,
+    "test_at": "2022-10-11 08:30:41",
+    "message": "Brake test Failed:  No high current detected",
+    "bms_max_i": "6.50",
+    "left_max_i": "-30.34",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 13,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-10-11 08:35:40",
+    "message": "",
+    "bms_max_i": "6.60",
+    "left_max_i": "-30.47",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 14,
+    "cycle": 1,
+    "result": false,
+    "test_at": "2022-10-11 09:14:16",
+    "message": "Brake test Failed:  No high current detected",
+    "bms_max_i": "6.50",
+    "left_max_i": "-30.08",
+    "right_max_i": "30.08"
+  },
+  {
+    "id": 15,
+    "cycle": 1,
+    "result": false,
+    "test_at": "2022-10-11 09:14:54",
+    "message": "Brake test Failed:  No high current detected",
+    "bms_max_i": "6.50",
+    "left_max_i": "-30.21",
+    "right_max_i": "65.41"
+  },
+  {
+    "id": 16,
+    "cycle": 1,
+    "result": false,
+    "test_at": "2022-10-11 09:15:39",
+    "message": "Brake test Failed:  No high current detected",
+    "bms_max_i": "6.50",
+    "left_max_i": "-30.47",
+    "right_max_i": "-65.28"
+  },
+  {
+    "id": 17,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-10-11 09:16:13",
+    "message": "",
+    "bms_max_i": "6.60",
+    "left_max_i": "-30.47",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 18,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-10-13 09:39:15",
+    "message": "",
+    "bms_max_i": "6.30",
+    "left_max_i": "-30.47",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 19,
+    "cycle": 1,
+    "result": false,
+    "test_at": "2022-10-20 08:59:28",
+    "message": "Brake test Failed:  No high current detected",
+    "bms_max_i": "0.00",
+    "left_max_i": "-0.26",
+    "right_max_i": "-0.26"
+  },
+  {
+    "id": 20,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-10-20 04:29:18",
+    "message": "",
+    "bms_max_i": "12.20",
+    "left_max_i": "-31.12",
+    "right_max_i": "16774.40"
+  },
+  {
+    "id": 21,
+    "cycle": 3,
+    "result": false,
+    "test_at": "2022-10-26 09:32:58",
+    "message": "Brake test Failed:  Mechanical brakes are loose during brakeTest",
+    "bms_max_i": "6.80",
+    "left_max_i": "-30.86",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 22,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-10-26 12:09:49",
+    "message": "",
+    "bms_max_i": "7.00",
+    "left_max_i": "-30.73",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 23,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-10-27 11:00:30",
+    "message": "",
+    "bms_max_i": "6.30",
+    "left_max_i": "-30.34",
+    "right_max_i": "65.02"
+  },
+  {
+    "id": 24,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-10-28 03:49:19",
+    "message": "",
+    "bms_max_i": "6.50",
+    "left_max_i": "16777.10",
+    "right_max_i": "30.34"
+  },
+  {
+    "id": 25,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-11-02 04:22:20",
+    "message": "",
+    "bms_max_i": "6.60",
+    "left_max_i": "-30.60",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 26,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-11-07 12:13:03",
+    "message": "",
+    "bms_max_i": "6.40",
+    "left_max_i": "-30.34",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 27,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-11-10 09:37:20",
+    "message": "",
+    "bms_max_i": "6.50",
+    "left_max_i": "-16777.20",
+    "right_max_i": "65.28"
+  },
+  {
+    "id": 28,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-11-15 10:25:07",
+    "message": "",
+    "bms_max_i": "7.00",
+    "left_max_i": "-30.73",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 29,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-11-17 08:12:04",
+    "message": "",
+    "bms_max_i": "6.60",
+    "left_max_i": "-31.90",
+    "right_max_i": "16777.10"
+  },
+  {
+    "id": 30,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-11-18 12:51:48",
+    "message": "",
+    "bms_max_i": "6.40",
+    "left_max_i": "-30.34",
+    "right_max_i": "30.34"
+  },
+  {
+    "id": 31,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-11-23 08:26:59",
+    "message": "",
+    "bms_max_i": "6.80",
+    "left_max_i": "-30.47",
+    "right_max_i": "16777.10"
+  },
+  {
+    "id": 32,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-11-24 09:25:46",
+    "message": "",
+    "bms_max_i": "6.70",
+    "left_max_i": "-30.47",
+    "right_max_i": "16777.10"
+  },
+  {
+    "id": 33,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-11-25 02:17:06",
+    "message": "",
+    "bms_max_i": "6.80",
+    "left_max_i": "-16777.00",
+    "right_max_i": "30.08"
+  },
+  {
+    "id": 34,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-12-06 04:21:33",
+    "message": "",
+    "bms_max_i": "6.30",
+    "left_max_i": "-30.34",
+    "right_max_i": "16777.10"
+  },
+  {
+    "id": 35,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-12-09 08:30:30",
+    "message": "",
+    "bms_max_i": "6.80",
+    "left_max_i": "-30.60",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 36,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-12-12 08:36:21",
+    "message": "",
+    "bms_max_i": "6.20",
+    "left_max_i": "-30.34",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 37,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-12-12 08:37:03",
+    "message": "",
+    "bms_max_i": "6.30",
+    "left_max_i": "-30.34",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 38,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-12-12 08:40:06",
+    "message": "",
+    "bms_max_i": "6.30",
+    "left_max_i": "-30.34",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 39,
+    "cycle": 1,
+    "result": false,
+    "test_at": "2022-12-16 08:11:22",
+    "message": "Brake test Failed:  No high current detected",
+    "bms_max_i": "0.00",
+    "left_max_i": "-0.26",
+    "right_max_i": "0.13"
+  },
+  {
+    "id": 40,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-12-16 11:19:41",
+    "message": "",
+    "bms_max_i": "6.10",
+    "left_max_i": "-16776.80",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 41,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-12-19 04:17:26",
+    "message": "",
+    "bms_max_i": "6.70",
+    "left_max_i": "-30.73",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 42,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-12-21 10:28:56",
+    "message": "",
+    "bms_max_i": "6.80",
+    "left_max_i": "-30.60",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 43,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-12-22 03:12:11",
+    "message": "",
+    "bms_max_i": "6.30",
+    "left_max_i": "-30.34",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 44,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-12-27 10:06:57",
+    "message": "",
+    "bms_max_i": "6.30",
+    "left_max_i": "-30.34",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 45,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2022-12-29 01:45:10",
+    "message": "",
+    "bms_max_i": "6.80",
+    "left_max_i": "-30.60",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 46,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2023-01-03 08:59:40",
+    "message": "",
+    "bms_max_i": "6.50",
+    "left_max_i": "-30.47",
+    "right_max_i": "30.34"
+  },
+  {
+    "id": 47,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2023-01-05 10:45:02",
+    "message": "",
+    "bms_max_i": "6.30",
+    "left_max_i": "-30.34",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 48,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2023-01-09 04:24:12",
+    "message": "",
+    "bms_max_i": "6.60",
+    "left_max_i": "-30.34",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 49,
+    "cycle": 1,
+    "result": false,
+    "test_at": "2023-01-13 11:07:52",
+    "message": "Brake test Failed:  No high current detected",
+    "bms_max_i": "0.00",
+    "left_max_i": "-0.26",
+    "right_max_i": "-0.26"
+  },
+  {
+    "id": 50,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2023-01-13 11:56:59",
+    "message": "",
+    "bms_max_i": "7.60",
+    "left_max_i": "30.60",
+    "right_max_i": "-30.34"
+  },
+  {
+    "id": 51,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2023-01-19 12:22:32",
+    "message": "",
+    "bms_max_i": "6.70",
+    "left_max_i": "-30.60",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 52,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2023-01-23 11:34:40",
+    "message": "",
+    "bms_max_i": "6.60",
+    "left_max_i": "-16776.80",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 53,
+    "cycle": 2,
+    "result": false,
+    "test_at": "2023-01-23 11:36:13",
+    "message": "Brake test Failed:  No high current detected",
+    "bms_max_i": "18.30",
+    "left_max_i": "-31.38",
+    "right_max_i": "31.51"
+  },
+  {
+    "id": 54,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2023-01-23 11:38:16",
+    "message": "",
+    "bms_max_i": "13.20",
+    "left_max_i": "-30.73",
+    "right_max_i": "30.21"
+  },
+  {
+    "id": 55,
+    "cycle": 0,
+    "result": true,
+    "test_at": "2023-01-25 05:04:21",
+    "message": "",
+    "bms_max_i": "2.40",
+    "left_max_i": "0.00",
+    "right_max_i": "0.13"
+  },
+  {
+    "id": 56,
+    "cycle": 3,
+    "result": true,
+    "test_at": "2023-01-25 05:13:17",
+    "message": "",
+    "bms_max_i": "6.40",
+    "left_max_i": "-30.34",
+    "right_max_i": "30.08"
+  }
+]
